@@ -24,15 +24,7 @@
 	}],
 	"Ringtone": [
 	    	{
-		"link_ringtone": "https://download.quranicaudio.com/quran/abdullaah_3awwaad_al-juhaynee/105.mp3"
-		},
-		
-		{
-		"link_ringtone" : "https://download.quranicaudio.com/quran/abdullaah_basfar/111.mp3"
-		},
-		
-		{
-		"link_ringtone" : "https://download.quranicaudio.com/quran/abdullaah_basfar/112.mp3"
+		"link_ringtone": ""
 		}
 	]
 }
